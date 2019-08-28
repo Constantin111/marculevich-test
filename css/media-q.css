@@ -1,0 +1,133 @@
+
+@media all and ( max-width: 1500px ) {
+    .project__item__hover__block {
+        padding-top: 15%;
+    }
+    .hover__block__title {
+        font-size: 18px;
+    }
+    .hover__block__service__title {
+        font-size: 20px;
+    }
+}
+
+@media all and ( max-width: 1300px ) {
+    .hover__block__title {
+        font-size: 16px;
+    }
+    .project__item__hover__block {
+
+    }
+}
+
+@media all and ( max-width: 1200px ) {
+    .hover__block__title {
+        font-size: 23px;
+    }
+    .project__item__hover__block {
+
+    }
+}
+
+@media all and ( max-width: 1110px ) {
+    .hover__block__title {
+        font-size: 20px;
+    }
+}
+
+@media all and ( max-width: 1000px ) {
+
+    .footer__content__block__left {
+        width: 100%;
+        max-width: 100%;
+        justify-content: center;
+    }
+    .footer__content__block__right {
+        width: 100%;
+        max-width: 100%;
+        justify-content: center;
+        padding-left: 20px;
+    }
+    .footer__content__block__contact__Email {
+        width: 100%;
+        max-width: 100%;
+        margin-top: 20px;
+    }
+}
+
+@media all and ( max-width: 804px ){
+    .col-md-6.footer__content__block__right {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .col-md-6.footer__content__block__left {
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+@media all and ( max-width: 765px ) {
+    .header__title {
+        font-size: 35px;
+        line-height: 1.531;
+    }
+    .footer__content__block__left,.footer__content__block__right {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .project__item__hover__block {
+        padding-top: 12%;
+    }
+    .hover__block__service__title {
+        font-size: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .hover__block__title {
+        font-size: 21px;
+    }
+}
+@media all and ( max-width: 600px ) {
+    .hover__block__title {
+        font-size: 16px;
+    }
+    .hover__block__service__title {
+        font-size: 18px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media all and ( max-width: 480px ) {
+
+    .footer__content__block__left,.footer__content__block__right {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .wrap__container {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .footer__content__blocks {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+@media all and ( max-width: 380px ) {
+    .header__title {
+        font-size: 25px;
+        line-height: 1.531;
+    }
+    .hover__block__title {
+        font-size: 14px;
+    }
+    .hover__block__service__title {
+        font-size: 14px;
+    }
+    .formOrder__form fieldset {
+        padding: 15px;
+    }
+}
